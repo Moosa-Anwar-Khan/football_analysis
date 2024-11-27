@@ -46,7 +46,10 @@ To run this project, you need to have the following requirements installed:
 3. Set up YOLOv5.
 
 ### License  
-The project does not specify a license.
+[MIT License](https://github.com/Moosa-Anwar-Khan/football_analysis/blob/main/LICENSE)
+
+#### Code of Conduct
+Code of Conduct sets the standards for how we interact with each other. It is important to maintain a respectful and inclusive environment in order to nourish cooperation. You can read the full document [here](https://github.com/Moosa-Anwar-Khan/football_analysis/blob/main/CONDUCT.md)
 
 ### Contribution Guidelines  
 1. Fork the repo.  
